@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://linkedin.com/in/md-aftab-alam-1bba22237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-aftab-alam-1bba22237" height="30" width="40" /></a>
-<a href="https://instagram.com/aftab9631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aftab9631" height="30" width="40" /></a>
+<a href="https://instagram.com/aftab9631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aftab9631" height="30" width="40" /></a> <a href="https://www.leetcode.com/md aftab alam 41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md aftab alam 41" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mdaftabalu1c6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mdaftabalu1c6" height="30" width="40" /></a>
 </p>
 
